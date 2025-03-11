@@ -7,4 +7,4 @@
 - 🏗️ **Arquitectura e ingeniería** (AutoCAD, SketchUp).
 
 
-### 🗒️ [5. Conclusiones](conclusiones.md)
+### 🏁 [5. Conclusiones](conclusiones.md)
