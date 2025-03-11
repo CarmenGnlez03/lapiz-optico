@@ -32,3 +32,7 @@ El lápiz óptico puede operar con diferentes tecnologías:
 - Son generalmente los más caros y solo funcionan con dispositivos compatibles con Bluetooth.
 - 
 ![imagen](https://github.com/user-attachments/assets/49477d10-3ec6-4136-ad18-52374f13ec10)
+
+
+
+### 🗒️ [3. Funcionamientos](funcionamientos.md)
