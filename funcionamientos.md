@@ -1,4 +1,4 @@
-## Características
+## Funcionamientos
 
 - Soporte para pantallas CRT y LCD
 - Detección avanzada de posición y movimiento
