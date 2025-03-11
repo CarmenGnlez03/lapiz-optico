@@ -1,4 +1,4 @@
-## Características
+## ⚙️ 2. Características Técnicas
 El lápiz óptico puede operar con diferentes tecnologías:
 
 ### ✏️ Lápices ópticos pasivos (capacitivos)
