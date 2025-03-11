@@ -9,4 +9,4 @@
 - Ejemplos de implementación y documentación detallada
 
 
-### 🗒️ [4. Aplicaciones](aplicaciones.md)
+### 🖥️ [4. Aplicaciones](aplicaciones.md)
