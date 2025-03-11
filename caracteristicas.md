@@ -35,4 +35,4 @@ El lápiz óptico puede operar con diferentes tecnologías:
 
 
 
-### 🗒️ [3. Funcionamientos](funcionamientos.md)
+### 🔍 [3. Funcionamientos](funcionamientos.md)
