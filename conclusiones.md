@@ -6,4 +6,4 @@ Comparado con otros dispositivos de entrada, como el ratón o los dedos, el láp
 
 En resumen, el lápiz óptico sigue siendo una herramienta fundamental en la interacción digital, proporcionando una experiencia de usuario mejorada y expandiendo su uso en diversas aplicaciones tecnológicas.
 
-### 🗒️ [6. Referencias](referencias.md)
+### 📚 [6. Referencias](referencias.md)
