@@ -1,3 +1,9 @@
+![imagen](https://github.com/user-attachments/assets/a91411fa-332f-435d-b5e0-1bbaadaf9b8f)
+
+
+
+
+
 # 🖊️ Lápiz Óptico  
 
 ## 📖 [1. ¿Qué es un lápiz óptico?](descripcion.md)  
