@@ -1,12 +1,13 @@
-# lapiz-optico
-## 🔠 [1. ¿Qué es un lapiz Óptico?](descripcion.md)
+# 🖊️ Lápiz Óptico  
 
-## 🗒️ [2. Características Técnicas](caracteristicas.md)
+## 📖 [1. ¿Qué es un lápiz óptico?](descripcion.md)  
 
-## 🌐 [3. Funcionamientos](funcionamientos.md)
+## ⚙️ [2. Características Técnicas](caracteristicas.md)  
 
-## ⌨️ [4. Aplicaciones](aplicaciones.md)
+## 🔍 [3. Funcionamiento](funcionamientos.md)  
 
-## 💡 [5. Conclusiones](conclusiones.md)
+## 🖥️ [4. Aplicaciones](aplicaciones.md)  
 
-## 👁️‍🗨️ [6. Referencias](referencias.md)
+## 🏁 [5. Conclusiones](conclusiones.md)  
+
+## 📚 [6. Referencias](referencias.md)  
