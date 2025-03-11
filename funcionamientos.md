@@ -7,3 +7,6 @@
 - Detección avanzada de posición y movimiento
 - Integración con sistemas operativos modernos (Windows, macOS, Linux)
 - Ejemplos de implementación y documentación detallada
+
+
+### 🗒️ [4. Aplicaciones](aplicaciones.md)
